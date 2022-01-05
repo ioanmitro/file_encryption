@@ -1,3 +1,3 @@
 # file_encryption
 
-A program that implements data encyption and decryption of an archive with a user key choice.
+A program that implements data encyption and decryption of directory files with a user key choice.
